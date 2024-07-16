@@ -1,1 +1,2 @@
-# OSD-683 RESEARCH PROJECT
+# NASA OSDR Captsone Project
+- Data downloaded from OSD-592 and OSD-514
