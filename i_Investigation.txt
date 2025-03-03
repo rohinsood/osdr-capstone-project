@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	EFO	NCIT	MESH	OBI		
+Term Source File	http://data.bioontology.org/ontologies/EFO			http://data.bioontology.org/ontologies/OBI	http://purl.obolibrary.org/obo/ncit.owl	http://purl.obolibrary.org/obo/ncit.owl
+Term Source Version	132			29	18.10e	18.10e
+Term Source Description	Experimental Factor Ontology			Ontology for Biomedical Investigations	NCI Thesaurus OBO Edition	NCI Thesaurus OBO Edition
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	OSD-592
+Study Title	Artificial gravity partially protects space-induced neurological deficits in Drosophila melanogaster (Immunohistochemistry)
+Study Description	Spaceflight poses risks to the central nervous system (CNS), and understanding neurological responses is important for future missions. We report CNS changes in Drosophila aboard the International Space Station in response to spaceflight microgravity (SFμg) and artificially simulated Earth gravity (SF1g) via inflight centrifugation as a countermeasure. While inflight behavioral analyses of SFμg exhibit increased activity, postflight analysis displays significant climbing defects, highlighting the sensitivity of behavior to altered gravity. Multi-omics analysis shows alterations in metabolic, oxidative stress and synaptic transmission pathways in both SFμg and SF1g; however, neurological changes immediately postflight, including neuronal loss, glial cell count alterations, oxidative damage, and apoptosis, are seen only in SFμg. Additionally, progressive neuronal loss and a glial phenotype in SF1g and SFμg brains, with pronounced phenotypes in SFμg, are seen upon acclimation to Earth conditions. Overall, our results indicate that artificial gravity partially protects the CNS from the adverse effects of spaceflight. This study derives results from the immunohistochemistry (cellular and molecular imaging) assay from whole brains.
+Study Submission Date	22-Feb-2023
+Study Public Release Date	12-Jun-2023
+Study File Name	s_OSD-592.txt
+Comment[Acknowledgments]	
+Comment[DOI]	10.26030/nbbs-bc37
+Comment[Data Source Accession]	
+Comment[Data Source Link]	
+Comment[Experiment Platform]	Multi-use Variable-gravity Platform (MVP)
+Comment[Flight Program]	International Space Station (ISS)
+Comment[Funding]	NASA JSC Grant no. NASA-OZ (2017-2018)
+Comment[Identifiers]	
+Comment[Managing NASA Center]	Ames Research Center (ARC)
+Comment[Mission End]	05/05/2018
+Comment[Mission Link]	https://osdr.nasa.gov/bio/repo/data/missions/SpaceX-14
+Comment[Mission Name]	SpaceX-14
+Comment[Mission Start]	04/02/2018
+Comment[Project Identifier]	MVP-Fly-01
+Comment[Project Link]	
+Comment[Project Title]	
+Comment[Project Type]	Spaceflight Study
+Comment[Space Program]	NASA
+Comment[Study Grant Number]	
+STUDY DESIGN DESCRIPTORS
+Study Design Type
+Study Design Type Term Accession Number
+Study Design Type Term Source REF
+STUDY PUBLICATIONS
+Study PubMed ID	36070701
+Study Publication DOI	10.1016/j.celrep.2022.111279
+Study Publication Author List	Mhatre SD, Iyer J, Petereit J, Dolling-Boreham RM, Tyryshkina A, Paul AM, Gilbert R, Jensen M, Woolsey RJ, Anand S, Sowa MB, Quilici DR, Costes SV, Girirajan S, Bhattacharya S.
+Study Publication Title	Artificial gravity partially protects space-induced neurological deficits in Drosophila melanogaster.
+Study Publication Status	published
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001796
+Study Publication Status Term Source REF	EFO
+Comment[Study Publication Link]	https://doi.org/10.1016/j.celrep.2022.111279
+STUDY FACTORS
+Study Factor Name	Altered Gravity	Sex	Spaceflight
+Study Factor Type	Gravity, Altered	Sex	Space Flight
+Study Factor Type Term Accession Number	http://purl.bioontology.org/ontology/MESH/D018470	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl	http://purl.bioontology.org/ontology/MESH/D013026
+Study Factor Type Term Source REF	MESH	NCIT	MESH
+STUDY ASSAYS
+Study Assay File Name	a_OSD-592_molecular-cellular-imaging_immunohistochemistry_zeiss lsm 880.txt
+Study Assay Measurement Type	Molecular Cellular Imaging
+Study Assay Measurement Type Term Accession Number	http://purl.bioontology.org/ontology/CSP/5005-0016
+Study Assay Measurement Type Term Source REF	
+Study Assay Technology Type	Immunohistochemistry
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/MMO_0000498
+Study Assay Technology Type Term Source REF	
+Study Assay Technology Platform	Zeiss LSM 880
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	Image File Dimensions	Platform And Sample	Labeling Information	Labeling Protocol	Treatment Protocol	ALSDA Transformed Data
+Study Protocol Type	sample collection	Image File Dimensions	Platform And Sample	Labeling Information	Labeling Protocol	sample treatment protocol	data transformation
+Study Protocol Type Term Accession Number		https://osdr.nasa.gov/				http://www.ebi.ac.uk/efo/EFO_0003809	http://purl.obolibrary.org/obo/OBI_0200000
+Study Protocol Type Term Source REF						EFO	OBI
+Study Protocol Description	F1 generation flies returned live were dissected (R+0 and R+25) and brains were immediately fixed for 20 minutes in PBS (Phosphate buffered saline) containing 4% paraformaldehyde, 6.7% sucrose, and 0.01% tween-20, and stored at 4°C in PBS with 0.05% sodium azide.	Stained brains were imaged using Zeiss LSM 880 laser scanning confocal microscope in the histology and microscopy core facility at the Gladstone Institute, University of California San Francisco (UCSF). Image dimensions were 1028x1028 and slides per image varied based on thickness of sample.	4-8 fly brains were mounted on a slide and separated by a spacer.	F1 generation flies returned live were dissected (R+0 and R+25) and brains were immediately fixed for 20 minutes in PBS (Phosphate buffered saline) containing 4% paraformaldehyde, 6.7% sucrose, and 0.01% tween-20, and stored at 4°C in PBS with 0.05% sodium azide. The R+0 and R+25 brains were stained for immunohistochemical analysis where staining for different antibody markers was conducted at the same time to facilitate comparison and reduce variability. The brains were stained following a standard protocol.	Briefly, the fixed brains were washed with PBS and PBT (0.2% Triton X-100 in PBS) for 10 min each, incubated with blocking buffer (5% normal goat serum (Catalog   566380, Sigma) in PBT) for one hour, and then incubated overnight at 4°C with primary antibodies. One set of brains (labeled Set 2) were stained with anti-elav (1:100, Catalog   7E8A10, Developmental Studies Hybridoma Bank (DSHB), host species - rat) to label all the neurons, anti-cc3 (1:100, Catalog   9661, Cell signaling Technology, host species - rabbit) as apoptotic marker, and anti-8-oxo-dG (1:100, Catalog   4354-MC-050, RandD systems, host species - mouse) as the DNA oxidative damage marker. Another set of brains (labeled Set 1) were stained with anti-Repo (1:50, Catalog   8D12, DSHB), University of Iowa, host species - mouse) to label the glia, and anti-TH (1:300, Catalog   AB152, EMD Millipore, host species - rabbit) to label the dopaminergic neurons. These preparations were then washed three times with PBT for 10 min each, and incubated with fluorophore-conjugated secondary antibodies, Alexa fluor 568 goat anti-mouse (1:200; Catalog   A-11031, Invitrogen), Alexa fluor 488 goat anti-rabbit (1:200; Catalog   A-11034, Invitrogen), or Alexa fluor 633 goat anti-rat (1:200; Catalog   A21094, Invitrogen). Final washes were performed once with PBT and twice with PBS, each for 10 min, and mounted in Vectashield (Vector Labs, H-1000) for imaging.	The w1118 wildtype line (Bloomington Stock Center) was used in this study. Thirty hours prior to launch, one-day-old virgin male (10) and female (25) fruit flies were loaded into the adult food cylinder 3 in each of the six MVP modules (F0 generation). The food cylinder was then immediately opened to adult fly chamber 2. The modules were then placed inside of a standard cargo transfer bag for launch. Prepared food cylinders were stored at 4°C for the duration of launch and ISS operations. Approximately 3.7 days (90 h) after launch, the payload was delivered to the ISS and the crew installed a food cylinder 2 inside the MVP module and opened the food cylinder 2 to adult fly chamber 2 (Mission day equals 5), giving flies access to the new food. Food cylinder 3 was closed at this time. This procedure was repeated for all MVP modules, and the modules were loaded into the previously installed MVP habitat hardware by the ISS crew. At this time, the six SF1g modules started spinning at 68 rpm to maintain 1g in spaceflight while the six SFμg modules were maintained at microgravity levels. After 5.5 days of egg laying (Mission Day equals 10), food cylinder 2 was opened to adult fly chamber 1 to allow the eggs laid in space to develop and emerge into adult flies in chamber 1. At the same time food cylinder 2 was closed to adult fly chamber 2, such that the launch populations of flies were prevented from entering food cylinder 2, thus keeping the generations separated. Food cylinder 3 was reopened to adult fly chamber 2 to continue providing food to this population for the remainder of the experiment. The larvae and flies that emerged from the food cylinder 2 into the adult fly chamber 1 had undergone their entire developmental life cycle during spaceflight (F1 generation). At this time, food cylinder 1 was inserted and opened to chamber 1 to allow egg laying in cylinder 1, which will produce the second generation of spaceflight-developed flies (F2 generation). Food cylinder 2 remained open to chamber 1 during egg lay to allow adults to continue emerging. This also allowed us to know the age range of the adult flies returned for postflight experiments (∼11-17-day adults). The MVP locker was powered down after the experiment. All the science operations, including food cylinder changes and fixation and opening/closing of chambers, were performed by the ISS crew. Unforeseen weather conditions delayed the mission by 4 days, during which the crew repowered the MVP hardware on mission day 31 and powered it off on mission day 34 for return to Earth. The total duration of spaceflight exposure for the samples in this study was approximately 29 days, as the egg laying period began on day 1 (April 6 2018, 14:50 UTC) and the Dragon capsule undock took place on day 29 (May 5 2018, 13:22 UTC). Ground control samples were asynchronous, and went from May 31, 2018 0:10 UTC to June 28 2018 22:52 UTC.	To enable maximal data reuse (for machine-readable approaches), the submitted version of this dataset was subsequently transformed and edited to be aligned with a reusable template, which was created through feedback provided by subject matter experts in the ALSDA Analysis Working Group. This transformed reusable version is structured so all results are standardized into specific rows (source/subject) and columns (measures). This enables all assay results to be identically structured for efficient data mining.
+Study Protocol URI							
+Study Protocol Version							
+Study Protocol Parameters Name	Sample Preservation Method;Sample Storage Temperature	Dimensions (XY);Channels	Individual Images Or Array;Platform;Array Information;Number Of Samples Per Position;Sample Metadata	Number  Of Biological Markers;Marker Type;Molecule Or Structure Labeled;Marker Channel	Preservation;Fixation Chemical;Fixation Concentration;Fixation Duration;Fixation Temperature;Blocking Chemical;Blocking Concentration;Primary Target;Primary Concentration;Primary Company And Product Number;Secondary Fluorophore;Secondary Company And Product Number;Permeabilization;Permeabilization Duration;Secondary Concentration;Mounting Medium;Submitted Results File	habitat;light cycle;light source;Age of F0 at Launch;duration	Transformed Reusable Files
+Study Protocol Parameters Name Term Accession Number	https://genelab-data.ndc.nasa.gov/;https://genelab-data.ndc.nasa.gov/	;	;;;;	;;;	;;;;;;;;;;;;https://osdr.nasa.gov/;https://osdr.nasa.gov/;https://osdr.nasa.gov/;https://osdr.nasa.gov/;https://osdr.nasa.gov/	http://purl.obolibrary.org/obo/ENVO_01000739;http://purl.obolibrary.org/obo/NCIT_C90419;http://purl.obolibrary.org/obo/OBI_0400065;https://osdr.nasa.gov/;http://www.ebi.ac.uk/efo/EFO_0000433	https://osdr.nasa.gov/
+Study Protocol Parameters Name Term Source REF	;	;	;;;;	;;;	;;;;;;;;;;;;;;;;	;NCIT;OBI;;EFO	
+Study Protocol Components Name							
+Study Protocol Components Type							
+Study Protocol Components Type Term Accession Number							
+Study Protocol Components Type Term Source REF							
+STUDY CONTACTS
+Study Person Last Name	Gilbert	Bhattacharya	Mhatre	Petereit	Dolling-Boreham	Tyryshkina	Paul	Jensen	Woolsey	Anand	Sowa	Quilici	Costes	Girirajan	Iyer
+Study Person First Name	Rachel	Sharmila	Siddhita	Juli	Roberta M.	Anastasia	Amber M.	Matthew	Rebekah J.	Sulekha	Marianne B.	David R.	Sylvain V.	Santhosh	Janani
+Study Person Mid Initials			D												
+Study Person Email	rachel.r.gilbert@nasa.gov	sharmila.bhattacharya@nasa.gov	siddhita.d.mhatre@nasa.gov												janani.s.iyer@nasa.gov
+Study Person Phone															
+Study Person Fax															
+Study Person Address	NASA Ames Research Center														
+Study Person Affiliation	NASA Ames Research Center	NASA Ames Research Center													
+Study Person Roles	Submitter	Principal Investigator	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	submitter
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C54269	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://www.ebi.ac.uk/efo/EFO_0001741
+Study Person Roles Term Source REF	NCIT	NCIT													EFO
